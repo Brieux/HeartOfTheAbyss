@@ -40,10 +40,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "NiagaraFluids",
-			"Enabled": true
-		},
-		{
 			"Name": "HoudiniEngine",
 			"Enabled": false
 		},
