@@ -70,3 +70,4 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Binaries/Win64/HeartOfTheAbyss.pdb
