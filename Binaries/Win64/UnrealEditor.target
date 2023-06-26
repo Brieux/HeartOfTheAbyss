@@ -7818,15 +7818,15 @@
 			"Type": "RequiredResource"
 		},
 		{
-			"Path": "$(ProjectDir)/Plugins/AsyncLoadingScreen/Binaries/Win64/UnrealEditor-AsyncLoadingScreen.dll",
+			"Path": "$(ProjectDir)/Plugins/AsyncLoadingScreen-5.1.0/Binaries/Win64/UnrealEditor-AsyncLoadingScreen.dll",
 			"Type": "DynamicLibrary"
 		},
 		{
-			"Path": "$(ProjectDir)/Plugins/AsyncLoadingScreen/Binaries/Win64/UnrealEditor-AsyncLoadingScreen.pdb",
+			"Path": "$(ProjectDir)/Plugins/AsyncLoadingScreen-5.1.0/Binaries/Win64/UnrealEditor-AsyncLoadingScreen.pdb",
 			"Type": "SymbolFile"
 		},
 		{
-			"Path": "$(ProjectDir)/Plugins/AsyncLoadingScreen/Binaries/Win64/UnrealEditor.modules",
+			"Path": "$(ProjectDir)/Plugins/AsyncLoadingScreen-5.1.0/Binaries/Win64/UnrealEditor.modules",
 			"Type": "RequiredResource"
 		},
 		{
@@ -31400,7 +31400,7 @@
 			"Type": "UFS"
 		},
 		{
-			"Path": "$(ProjectDir)/Plugins/AsyncLoadingScreen/AsyncLoadingScreen.uplugin",
+			"Path": "$(ProjectDir)/Plugins/AsyncLoadingScreen-5.1.0/AsyncLoadingScreen.uplugin",
 			"Type": "UFS"
 		}
 	],

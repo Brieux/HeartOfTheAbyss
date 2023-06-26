@@ -3223,7 +3223,7 @@
 			"Type": "UFS"
 		},
 		{
-			"Path": "$(ProjectDir)/Plugins/AsyncLoadingScreen/AsyncLoadingScreen.uplugin",
+			"Path": "$(ProjectDir)/Plugins/AsyncLoadingScreen-5.1.0/AsyncLoadingScreen.uplugin",
 			"Type": "UFS"
 		}
 	],
